@@ -17,8 +17,8 @@ class AboutThisApp extends StatelessWidget {
                 child: ListBody(
                   children: const <Widget>[
                     Text('Version: 1.0.0\n'),
-                    Text('This is a fun quiz app I made'
-                        'while I was learning flutter framework.'),
+                    Text('This is a fun quiz app I made '
+                        'while I was learning Flutter framework.'),
                     Text('Author: LogicalLokesh\n'),
                     Text('Website: https://logicallokesh.net/'),
                   ],
